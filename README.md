@@ -8,7 +8,7 @@ Website created with HTML, CSS & JavaScript.
 
 **Gerardo Castañeda**
 
-* [LinkedIn](<https://www.linkedin.com/gerardo-isaac/>)
+* [LinkedIn](<https://www.linkedin.com/in/gerardo-isaac/>)
 
 ## Watch Live
 
