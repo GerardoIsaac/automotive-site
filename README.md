@@ -8,11 +8,11 @@ Website created with HTML, CSS & JavaScript.
 
 **Gerardo Castañeda**
 
-* <a href="https://www.linkedin.com/gerardo-isaac/" target="_blank">LinkedIn</a>
+* [LinkedIn](<https://www.linkedin.com/gerardo-isaac/>)
 
 ## Watch Live
 
-- <a href="https://gerardoisaac.github.io/automotive-site/" target="_blank">GitHub Pages link</a>
+* [GitHub Pages link](<https://gerardoisaac.github.io/automotive-site/>)
 
 ## Contact me
 
