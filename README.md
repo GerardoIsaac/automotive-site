@@ -6,9 +6,9 @@ Website created with HTML, CSS & JavaScript.
 
 ## Author
 
-**Gerardo Castañeda**
+### Gerardo Castañeda
 
-* [LinkedIn](<https://www.linkedin.com/in/gerardo-isaac/>)
+* [LinkedIn](<https://www.linkedin.com/in/gerardoisaac/>)
 
 ## Watch Live
 
@@ -16,4 +16,4 @@ Website created with HTML, CSS & JavaScript.
 
 ## Contact me
 
-Write me to zl1fmercury@gmail.com
+Write me to gerardoisaac.cm@gmail.com
