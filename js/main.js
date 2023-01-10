@@ -3,6 +3,8 @@ const images = [
   "img/background_01.jpg",
   "img/background_02.jpg",
   "img/background_03.jpg",
+  "img/background_04.jpg",
+  "img/background_05.jpg",
 ];
 
 // App state
